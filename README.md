@@ -11,5 +11,5 @@
 
 
 
-[1]: www.linkedin.com/in/aknozn
+[1]: https://www.linkedin.com/in/aknozn
 [2]: https://discordapp.com/users/159332821440266240/
