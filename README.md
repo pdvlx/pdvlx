@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-## 🏆 GitHub Trophies
 
-<div>
-  <img height="190" src="https://github-profile-trophy.vercel.app/?username=pdvlx&theme=nord&column=7" />
-</div>
 
 ## ⚡ GitHub Stats / Top Langs
+
 
 <div>
   <img height="190" align="left"  src="https://github-readme-stats.vercel.app/api?username=pdvlx&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact" />
