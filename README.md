@@ -24,11 +24,6 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
-## I know
-
-![Unity](https://img.shields.io/badge/-Unity-black)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
-![C#](https://img.shields.io/badge/-C_Sharp-black?style=flat-square&logo=c-sharp)
 
 - 🔭 I’m currently studying about cloud technologies(got an az-204 cert), DevOps and DevSecOps.
 - 📫 How to reach me: ![discord24](https://user-images.githubusercontent.com/33608786/168914563-8f77c3a9-d062-4cdb-9d17-67f020e7ad93.png)
