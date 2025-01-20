@@ -25,7 +25,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 
-- 🔭 I’m currently studying about cloud technologies(got an az-204 cert), DevOps and DevSecOps.
 - 📫 How to reach me: ![discord24](https://user-images.githubusercontent.com/33608786/168914563-8f77c3a9-d062-4cdb-9d17-67f020e7ad93.png)
 
 
